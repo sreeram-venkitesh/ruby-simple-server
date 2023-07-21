@@ -1,0 +1,8 @@
+{
+  "name": "ruby-simple-server",
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
